@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\Win\\AutoPg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44DD08E3-DE6E-0289-E17A-05EF3722590D}|AutoPg.csproj|d:\\work\\win\\autopg\\view\\loginwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44DD08E3-DE6E-0289-E17A-05EF3722590D}|AutoPg.csproj|solutionrelative:view\\loginwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DD08E3-DE6E-0289-E17A-05EF3722590D}|AutoPg.csproj|d:\\work\\win\\autopg\\view\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44DD08E3-DE6E-0289-E17A-05EF3722590D}|AutoPg.csproj|solutionrelative:view\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DD08E3-DE6E-0289-E17A-05EF3722590D}|AutoPg.csproj|d:\\work\\win\\autopg\\view\\loginwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DD08E3-DE6E-0289-E17A-05EF3722590D}|AutoPg.csproj|solutionrelative:view\\loginwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DD08E3-DE6E-0289-E17A-05EF3722590D}|AutoPg.csproj|d:\\work\\win\\autopg\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DD08E3-DE6E-0289-E17A-05EF3722590D}|AutoPg.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DD08E3-DE6E-0289-E17A-05EF3722590D}|AutoPg.csproj|d:\\work\\win\\autopg\\app.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44DD08E3-DE6E-0289-E17A-05EF3722590D}|AutoPg.csproj|solutionrelative:app.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DD08E3-DE6E-0289-E17A-05EF3722590D}|AutoPg.csproj|d:\\work\\win\\autopg\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44DD08E3-DE6E-0289-E17A-05EF3722590D}|AutoPg.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DD08E3-DE6E-0289-E17A-05EF3722590D}|AutoPg.csproj|d:\\work\\win\\autopg\\autopg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44DD08E3-DE6E-0289-E17A-05EF3722590D}|AutoPg.csproj|solutionrelative:autopg.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.axaml",
+              "DocumentMoniker": "D:\\Work\\Win\\AutoPg\\View\\LoginWindow.axaml",
+              "RelativeDocumentMoniker": "View\\LoginWindow.axaml",
+              "ToolTip": "D:\\Work\\Win\\AutoPg\\View\\LoginWindow.axaml",
+              "RelativeToolTip": "View\\LoginWindow.axaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-20T09:11:15.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginWindow.axaml.cs",
+              "DocumentMoniker": "D:\\Work\\Win\\AutoPg\\View\\LoginWindow.axaml.cs",
+              "RelativeDocumentMoniker": "View\\LoginWindow.axaml.cs",
+              "ToolTip": "D:\\Work\\Win\\AutoPg\\View\\LoginWindow.axaml.cs",
+              "RelativeToolTip": "View\\LoginWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:11:14.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "D:\\Work\\Win\\AutoPg\\App.axaml.cs",
+              "RelativeDocumentMoniker": "App.axaml.cs",
+              "ToolTip": "D:\\Work\\Win\\AutoPg\\App.axaml.cs",
+              "RelativeToolTip": "App.axaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:04:07.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.axaml",
+              "DocumentMoniker": "D:\\Work\\Win\\AutoPg\\App.axaml",
+              "RelativeDocumentMoniker": "App.axaml",
+              "ToolTip": "D:\\Work\\Win\\AutoPg\\App.axaml",
+              "RelativeToolTip": "App.axaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-20T09:03:16.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\Work\\Win\\AutoPg\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "D:\\Work\\Win\\AutoPg\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2026-01-20T09:03:11.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoPg.csproj",
+              "DocumentMoniker": "D:\\Work\\Win\\AutoPg\\AutoPg.csproj",
+              "RelativeDocumentMoniker": "AutoPg.csproj",
+              "ToolTip": "D:\\Work\\Win\\AutoPg\\AutoPg.csproj",
+              "RelativeToolTip": "AutoPg.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-20T08:54:57.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "D:\\Work\\Win\\AutoPg\\View\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "View\\MainWindow.axaml",
+              "ToolTip": "D:\\Work\\Win\\AutoPg\\View\\MainWindow.axaml",
+              "RelativeToolTip": "View\\MainWindow.axaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-20T08:54:39.146Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
